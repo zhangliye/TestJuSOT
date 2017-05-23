@@ -6,5 +6,6 @@ module TestJuSOT
 export add_function
 
 include("new_function.jl")
+include("new_idea.jl")
 
 end # module
